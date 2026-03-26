@@ -1,2 +1,2 @@
 # WhenBoredomStrikes.
-### Here exist all my HTML5, CSS, and JS projects, that I made when IB DP Computer Science class got boring :)
+#### Here are some of my HTML5, CSS, and JS projects, that I made when IB DP Computer Science class got boring :)
