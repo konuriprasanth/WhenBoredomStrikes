@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fullscreen Image with Music</title>
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    img {
+      width: 100vw;
+      height: 100vh;
+      object-fit: fill; /* fills screen without distortion */
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Fullscreen Image -->
+  <img src="myGoat.jpg" alt="Background Image">
+
+  <!-- Background Audio -->
+  <audio autoplay loop>
+    <source src="nothingtoworryabout.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+
+</body>
+</html>
